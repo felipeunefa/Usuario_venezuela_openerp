@@ -3,9 +3,8 @@ Usuario_venezuela_openerp (Un aporte de la Comunidad bachaco-ve)
 
     Este es un módulo adiciona a el módulo base res.users del sistema de openerp las características de un usuarios  Venezolano
 
-Bachaco-VE orgánica Libre para el fomento y uso de la tecnología como medio 
-para la emancipación de los pueblos y empoderamiento de los saberes!!! Inventamos o Erramos!!!
-===============================================================================================
+Bachaco-VE orgánica Libre para el fomento y uso de la tecnología como medio para la emancipación de los pueblos y empoderamiento de los saberes!!! Inventamos o Erramos!!!
+==========================================================================================================================================================================
 
 Para Registrar a un Usuario:
 --------------------------------------------
